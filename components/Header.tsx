@@ -57,7 +57,7 @@ export default function Header({ socials }: Props) {
       >
         <Link href="https://sheetalluthra-hi.vercel.app">
           <div className="flex items-center">
-            <p className="uppercase hidden md:inline-flex text-sm text-gray-400">
+            <p className="uppercase text-sm text-gray-400">
             हिन्दी / Hindi
             </p>
           </div>
