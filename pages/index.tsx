@@ -41,6 +41,7 @@ const Home = ({ pageInfo, experiences, awards, papers, socials }: Props) => {
     >
       <Head>
         <title>{pageInfo?.name}</title>
+        <meta name="description" content="SheetalLuthraPortfolio" />
         <link rel="icon" href="/SheetalWhiteBG.png" />
       </Head>
 
